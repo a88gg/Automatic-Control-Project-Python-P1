@@ -11,3 +11,14 @@ II. Second Task: State-Space Representation: Realization of the state matrix wit
 <img width="1087" height="688" alt="image" src="https://github.com/user-attachments/assets/b8735f33-b2b9-4482-a75b-e0bebb72aa20" />
 <img width="776" height="558" alt="image" src="https://github.com/user-attachments/assets/9efe382b-8bd4-4e57-970f-47bdf6c517b0" />
 
+III. Third Task: Transfer Function
+<img width="577" height="328" alt="image" src="https://github.com/user-attachments/assets/c117da75-4fc7-4bc2-81f7-550a33f4a458" />
+<img width="450" height="762" alt="image" src="https://github.com/user-attachments/assets/24d4c40e-e067-4908-8303-dd0a1fc19105" />
+
+IV. Fourth Task: System Interconnection: Implementation of series(), parallel(), feedback()
+
+The results from the program Ⅳ in the document are as follows:
+
+<img width="463" height="1644" alt="image" src="https://github.com/user-attachments/assets/b03d465f-24eb-43df-bc7b-0a76b44fa065" />
+
+Your feedback is welcome！！
